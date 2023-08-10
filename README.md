@@ -14,7 +14,7 @@ Besides regular recipes, it will also show you the number of calories and the he
   
 API website : https://www.edamam.com/
 
-Youtube tutorial : https://www.youtube.com/watch?v=x8EY0BlhPGk 
+YouTube tutorial : https://www.youtube.com/watch?v=x8EY0BlhPGk 
 
 Photos : https://unsplash.com/
 
