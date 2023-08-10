@@ -1,7 +1,7 @@
-Welcome to Receipe App! This is a junior-level project aimed at practicing basic HTML, CSS, Javascript and web development skills.
+Welcome to Recipe App! This is a junior-level project aimed at practicing basic HTML, CSS, Javascript and web development skills.
 
-In this App, you can simply type in the search bar an ingredient like: fish, avocado, mango or even Prosecco and it will pop up different receipes involving the typed words.
-Besides regular receipes, it will also show you the number of calories and the health label of the recipe.
+In this App, you can simply type in the search bar an ingredient like: fish, avocado, mango or even Prosecco and it will pop up different recipes involving the typed words.
+Besides regular recipes, it will also show you the number of calories and the health label of the recipe.
 
 # Features
 
