@@ -18,6 +18,10 @@ Youtube tutorial : https://www.youtube.com/watch?v=x8EY0BlhPGk
 
 Photos : https://unsplash.com/
 
+![fr111](https://github.com/liviamucioniu/Recipe-app/assets/130161176/0e1f311b-6065-4b25-83cf-e1cd7a6e3fb5)
+
+![fr2](https://github.com/liviamucioniu/Recipe-app/assets/130161176/5ea0cf3f-0c4f-4a66-b9a9-f183cbd53fc5)
+
 
 
 
